@@ -15,10 +15,7 @@ root.render(
       <Weather />
       <footer>
         {" "}
-        <a
-          href="https://github.com/include-JoannaLopez/react-app.git"
-          target="_blank"
-        >
+        <a href="https://github.com/include-JoannaLopez/react-app.git">
           Open-source code
         </a>
         , by Joanna Lopez
