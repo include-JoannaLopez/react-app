@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@babel/types": "^7.22.17",
     "axios": "^0.27.x",
     "bootstrap": "^5.x",
     "postcss-normalize": "^10.0.1",
